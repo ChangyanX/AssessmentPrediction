@@ -10,3 +10,15 @@ We measured the performance of the learning system in terms of prediction accura
 
 
 https://latex.codecogs.com/svg.latex?\text{prediction%20accuracy}%20=%20\frac{\text{the%20number%20of%20correct%20predictions}}{\text{the%20number%20of%20total%20predictions}}
+
+
+https://latex.codecogs.com/svg.latex?\text{prediction%20accuracy}%20=%20\frac{\text{the%20number%20of%20correct%20predictions}}{\text{the%20number%20of%20total%20predictions}}
+
+
+This math is inline $`a^2+b^2=c^2`$.
+
+This is on a separate line
+
+```math
+a^2+b^2=c^2
+```
